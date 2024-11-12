@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: cornflowerblue;
+    color: white;
+    float: left;
+    width: 25%;
+    line-height: 37px;
+    text-align: center;
+}
