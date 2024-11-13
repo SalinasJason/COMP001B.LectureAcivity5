@@ -11,3 +11,13 @@ header {
     line-height: 37px;
     text-align: center;
 }
+
+
+main {
+    background-color: darkgray;
+    height: auto;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
